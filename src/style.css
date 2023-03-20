@@ -1,0 +1,13 @@
+.title {
+    font-size: 10em;
+}
+body {
+    background: fuchsia;
+    padding: 1em;
+}
+.button {
+    background: greenyellow;
+    color: black;
+    padding: 1em;
+    border-radius: 1em;
+}
